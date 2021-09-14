@@ -1,0 +1,26 @@
+{
+  "name": "database-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JULIET-01/database-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JULIET-01/database-learn/issues"
+  },
+  "homepage": "https://github.com/JULIET-01/database-learn#readme",
+  "dependencies": {
+    "knex": "^0.95.11"
+  },
+  "devDependencies": {
+    "sqlite3": "^5.0.2"
+  }
+}
